@@ -24,7 +24,7 @@ Checkliste für die Organisation des Webmontags
 
 - [ ] Sessions besorgen 
 
- ## 4 Wochen vor der nächsten Veranstaltung
+## 4 Wochen vor der nächsten Veranstaltung
  
 - [ ] Sessions besorgen  
 - [ ] Facebook Veranstaltung anlegen
