@@ -48,9 +48,9 @@ Checkliste für die Organisation des Webmontags
 - [ ] Reminder via Twitter und Facebook
 - [ ] Pizza bestellen
 - [ ] Getränke besorgen
-- [ ] Wegschilder ausdrucken
-- [ ] Countdown Blätter ausdrucken
-- [ ] Slide mit Agenda aktualisieren
+- [ ] [Wegschilder](wegschilder) ausdrucken
+- [ ] [Countdown Blätter](CountDown.rtf) ausdrucken
+- [ ] [Slide mit Agenda](Startscreen.key) aktualisieren
 - [ ] Namensschilder besorgen
 - [ ] Spendenkiste besorgen
 
@@ -73,3 +73,25 @@ Checkliste für die Organisation des Webmontags
 - [ ] Hinweis auf Feedback-Möglichkeit im Wiki: Ideen, Anregungen, Kommentare, Verbesserungsvorschläge etc.
 - [ ] Dank an Helfer und Sponsoren 
 - [ ] Terminhinweise (Nächster Webmontag) 
+
+----
+
+#Lizenz
+<p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
+  <a rel="license"
+     href="http://creativecommons.org/publicdomain/zero/1.0/deed.de">
+    <img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
+  </a>
+  <br />
+  To the extent possible under law,
+  <a rel="dct:publisher"
+     href="www.michael-kuehnel.de">
+    <span property="dct:title">Michael Kühnel</span></a>
+  has waived all copyright and related or neighboring rights to
+  this Work.
+This work is published from:
+<span property="vcard:Country" datatype="dct:ISO3166"
+      content="DE" about="www.michael-kuehnel.de">
+  Deutschland</span>.
+</p>
+
