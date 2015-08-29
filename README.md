@@ -48,9 +48,9 @@ Checkliste für die Organisation des Webmontags
 - [ ] Reminder via Twitter und Facebook
 - [ ] Pizza bestellen
 - [ ] Getränke besorgen
-- [ ] [Wegschilder](wegschilder) ausdrucken
-- [ ] [Countdown Blätter](CountDown.rtf) ausdrucken
-- [ ] [Slide mit Agenda](Startscreen.key) aktualisieren
+- [ ] Wegschilder ausdrucken
+- [ ] Countdown Blätter ausdrucken
+- [ ] Slide mit Agenda aktualisieren
 - [ ] Namensschilder besorgen
 - [ ] Spendenkiste besorgen
 
