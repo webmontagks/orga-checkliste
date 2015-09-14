@@ -1,12 +1,9 @@
 # Orga Checkliste
 Checkliste für die Organisation des Webmontags
 
-## Sofort nach der letzten Veranstaltung
-
-- [ ] Raum für den nächsten Webmontag buchen
-
 ## Tage nach der letzten Veranstaltung
 
+- [ ] Raum für den nächsten Webmontag buchen
 - [ ] Slides zu Sessions besorgen und im Wiki verlinken
 - [ ] Tweet und Facebook Update wenn Slides dazugekommen sind
 - [ ] Tweet und Facebook Update wenn Slides komplett sind
@@ -57,6 +54,7 @@ Checkliste für die Organisation des Webmontags
 ### Kurz vor der Veranstaltung
 - [ ] Wegschilder aufhängen
 - [ ] Namensschilder und Stifte auslegen
+- [ ] Räume auf der Etage abschließen (außer Küche und Veranstaltungsraum)
  
 ### Zu Beginn der Veranstaltung
 - [ ] Hinweis auf Namensschilder 
@@ -73,6 +71,12 @@ Checkliste für die Organisation des Webmontags
 - [ ] Hinweis auf Feedback-Möglichkeit im Wiki: Ideen, Anregungen, Kommentare, Verbesserungsvorschläge etc.
 - [ ] Dank an Helfer und Sponsoren 
 - [ ] Terminhinweise (Nächster Webmontag) 
+
+### Sofort nach der letzten Veranstaltung
+
+- [ ] Räume auf der Etage abschließen (außer Küche und Veranstaltungsraum)
+	- Damit die Kollegen am nächsten Morgen in Ihre Büros kommen 
+- [ ] Abbau Bestuhlung und Technik
 
 ----
 
