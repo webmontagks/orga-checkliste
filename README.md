@@ -44,12 +44,14 @@ Checkliste für die Organisation des Webmontags
 ### Im Laufe des Tages
 - [ ] Reminder via Twitter und Facebook
 - [ ] Pizza bestellen
-- [ ] Getränke besorgen
+- [ ] Getränke bestellen/kaltstellen
+- [ ] Getränke ranschaffen
 - [ ] Wegschilder ausdrucken
 - [ ] Countdown Blätter ausdrucken
 - [ ] Slide mit Agenda aktualisieren
 - [ ] Namensschilder besorgen
 - [ ] Spendenkiste besorgen
+- [ ] Schlüssel besorgen
 
 ### Kurz vor der Veranstaltung
 - [ ] Wegschilder aufhängen
