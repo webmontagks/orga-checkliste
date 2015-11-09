@@ -51,7 +51,6 @@ Checkliste für die Organisation des Webmontags
 - [ ] Slide mit Agenda aktualisieren
 - [ ] Namensschilder besorgen
 - [ ] Spendenkiste besorgen
-- [ ] Schlüssel besorgen
 
 ### Kurz vor der Veranstaltung
 - [ ] Wegschilder aufhängen
