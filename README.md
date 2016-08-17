@@ -79,6 +79,10 @@ Checkliste für die Organisation des Webmontags
 	- Damit die Kollegen am nächsten Morgen in Ihre Büros kommen 
 - [ ] Abbau Bestuhlung und Technik
 
+### Am Morgen danach
+
+- [ ] Passwort des Public WLAN ändern
+
 ----
 
 #Lizenz
