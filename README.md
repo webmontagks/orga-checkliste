@@ -8,7 +8,7 @@ Checkliste für die Organisation des Webmontags
 - [ ] Tweet und Facebook Update wenn Slides dazugekommen sind
 - [ ] Tweet und Facebook Update wenn Slides komplett sind
 
-## 4 Wochen nach der letzten Veranstaltung
+## Spätestens 4 Wochen nach der letzten Veranstaltung
 
 - [ ] Wiki Startseite Seite ins Archiv »verschieben«
 - [ ] Wiki Startseite »leer« machen und mit Datum der nächsten Veranstaltung versehen
@@ -75,17 +75,12 @@ Checkliste für die Organisation des Webmontags
 
 ### Sofort nach der letzten Veranstaltung
 
-- [ ] Räume auf der Etage abschließen (außer Küche und Veranstaltungsraum)
-	- Damit die Kollegen am nächsten Morgen in Ihre Büros kommen 
 - [ ] Abbau Bestuhlung und Technik
 
-### Am Morgen danach
-
-- [ ] Passwort des Public WLAN ändern
 
 ----
 
-#Lizenz
+# Lizenz
 <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
   <a rel="license"
      href="http://creativecommons.org/publicdomain/zero/1.0/deed.de">
